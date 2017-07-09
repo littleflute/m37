@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Soldier Side [Intro].mp3";		
+f[2]	= "06 This Cocaine Makes Me Feel Like I'm on This Song.mp3";		
+f[3]	= "07 Violent Pornography.mp3";		
+f[4]	= "09 Sad Statue.mp3";		
+f[5]	= "10 Old School Hollywood.mp3";		
+f[6]	= "11 Lost in Hollywood.mp3";		
+f[7]	= "B.Y.O.B.mp3";		
+f[8]	= "Cigaro.mp3";		
+f[9]	= "Question.mp3";		
+f[10]	= "Radio-Video.mp3";		
+f[11]	= "Revenga.mp3";		
