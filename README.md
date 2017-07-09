@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/m37/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/m37/edit/master/README.md)
 
 [John Lennon/Lennon Disc 1](John Lennon/Lennon Disc 1)
 
@@ -11,3 +11,5 @@
 [Tom Waits/Big Time](Tom Waits/Big Time)
 
 [Tom Waits/The Black Rider](Tom Waits/The Black Rider)
+
+[Tom Waits/The Early Years, Vol. 1](Tom Waits/The Early Years, Vol. 1)
