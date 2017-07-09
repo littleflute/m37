@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/m37/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/m37/edit/master/README.md)
 
 [John Lennon/Lennon Disc 1](John Lennon/Lennon Disc 1)
 
@@ -7,3 +7,7 @@
 [Leon Russell/The Best of Leon Russell](Leon Russell/The Best of Leon Russell)
 
 [System of a Down/Mezmerize](System of a Down/Mezmerize)
+
+[Tom Waits/Big Time](Tom Waits/Big Time)
+
+[Tom Waits/The Black Rider](Tom Waits/The Black Rider)
