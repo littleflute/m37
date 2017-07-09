@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m37/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m37/edit/master/README.md)
 
 [John Lennon/Lennon Disc 1](John Lennon/Lennon Disc 1)
 
